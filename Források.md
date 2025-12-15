@@ -4,3 +4,6 @@ https://welovebudapest.com/cikk/2023/06/26/latnivalok-es-kultura-budapest-szubje
 https://bakancsban-ket-kereken.blog.hu/2024/03/11/kolodko_mihaly_budapesti_miniszobrai_nyomaban_elso_resz?utm_source=
 https://hu.wikipedia.org/wiki/Kolodko_Mih%C3%A1ly?utm_source=
 https://www.kolodko.hu/about?utm_source=
+
+ChatGTP 5.2-es verziót használtam.
+Kérdés: Irj nekem Kolodko Mihály életéről és munkásságáról. Használj forrásokat.
