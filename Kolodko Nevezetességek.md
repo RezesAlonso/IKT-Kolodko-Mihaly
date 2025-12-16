@@ -29,8 +29,8 @@ A Magyar Nemzeti Múzeum a magyar történelem és kultúra legfontosabb tárgyi
 
 
 
-Források: https://mnm.hu/hu/muzeum/hirek/magyar-nemzeti-muzeumba-koltozik-madach-szinhaz https://hu.wikipedia.org/wiki/Magyar_%C3%81llami_Operah%C3%A1z https://hu.wikipedia.org/wiki/Szent_Istv%C3%A1n-bazilika_(Budapest) https://hu.wikipedia.org/wiki/Orsz%C3%A1gh%C3%A1z https://hu.wikipedia.org/wiki/Sz%C3%A9pm%C5%B1v%C3%A9szeti_M%C3%BAzeum_(Budapest)
-
+Hivatalos Link: 
+https://mnm.hu/hu/muzeum/hirek/magyar-nemzeti-muzeumba-koltozik-madach-szinhaz https://hu.wikipedia.org/wiki/Magyar_%C3%81llami_Operah%C3%A1z https://hu.wikipedia.org/wiki/Szent_Istv%C3%A1n-bazilika_(Budapest) https://hu.wikipedia.org/wiki/Orsz%C3%A1gh%C3%A1z https://hu.wikipedia.org/wiki/Sz%C3%A9pm%C5%B1v%C3%A9szeti_M%C3%BAzeum_(Budapest)
 https://hu.wikipedia.org/wiki/Magyar_Nemzeti_M%C3%BAzeum
 
 https://maps.app.goo.gl/9fwK3iFgF6YGqZnj9
