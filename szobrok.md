@@ -13,3 +13,6 @@ A Trabant-szobor a szocialista korszak egyik legismertebb autóját ábrázolja.
 Columbo
 
 A Columbo-szobor a híres televíziós nyomozót ábrázolja, jellegzetes ballonkabátjával és kissé esetlen megjelenésével. Columbo figurája az ész, a kitartás és az alábecsült intelligencia szimbóluma. Kolodko alkotása tiszteletadás a klasszikus krimisorozat előtt, miközben emberközeli és barátságos formában jeleníti meg a legendás karaktert.
+
+forrás: - wikipédia
+        - chat gpt 5.2
