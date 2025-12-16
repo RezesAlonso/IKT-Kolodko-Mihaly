@@ -33,4 +33,4 @@ Források: https://mnm.hu/hu/muzeum/hirek/magyar-nemzeti-muzeumba-koltozik-madac
 
 https://hu.wikipedia.org/wiki/Magyar_Nemzeti_M%C3%BAzeum
 
-https://maps.app.goo.gl/6itYcBN7U6guwfCV6
+https://maps.app.goo.gl/9fwK3iFgF6YGqZnj9
