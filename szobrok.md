@@ -21,4 +21,5 @@ Mekk Elek szobra Mekk Elek, a híres „ezermester” kecske a magyar rajzfilmt�
 
 
  forrás: -chat gpt 5.2 verzio, prompt: irj egy 1000 karakteres wordbeli szoveget kolodko Mr, bean, Garfield, Paddington, Mekk Elek szobrairól mindegyikbol legyen 1000 karakter
+         
          - wikipédia
