@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Útvonaltérkép</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    body {
+      background-color: #f7f7f7;
+    }
+    .hero {
+      background: url('/mnt/data/Latnivalok-Varso-varosaban-X.jpg') center/cover no-repeat;
+      height: 85vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      text-shadow: 2px 2px 4px #000;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      font-weight: 700;
+    }
+    footer {
+      background: #222;
+      color: #bbb;
+      padding: 20px 0;
+      text-align: center;
+      margin-top: 50px;
+    }
+    .z {
+    color: rgb(34, 33, 33);
+    background-color: transparent;
+    text-decoration: none;
+}
+  </style>
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="#">Kolodko</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html">Fő oldal</a></li>
+        <li class="nav-item"><a class="nav-link" href="szobrok.html">Szobrok</a></li>
+        <li class="nav-item"><a class="nav-link active" href="turistaterkep.html">Útvonal</a></li>
+        <li class="nav-item"><a class="nav-link" href="info.html">Kolodko</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section class="hero" id="kezdolap">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2694.726970311171!2d19.07984137682491!3d47.51470819431803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741db341467bb07%3A0x23dd41b5fb690292!2sKolodko%3A%20Drakula%20miniszobor!5e0!3m2!1shu!2shu!4v1767784653277!5m2!1shu!2shu" width="1000" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
+
+<div class="container my-5" id="latnivalok">
+  <div class="row mt-5">
+
+    <h2 class="mb-4">Nevezetességek</h2>
+    
+    <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="https://imgs.search.brave.com/AnUrN2KCo8LCYWUaSn5P-H1nkbRSXbkaRffJTSg58zs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wYjIu/amVneS5odS9pbWdz/L3N5c3RlbS00L3Zl/bnVlLzAwMC8wMDAv/MDE1L21hZGFjaC1z/emluaGF6LTQ3NC0y/NzktNDk0MjMuanBn" class="card-img-top" alt="Madách Színház">
+        <div class="card-body">
+          <h5 class="card-title"><a href="https://madachszinhaz.hu/" class="z">Madách Színház</a></h5>
+          <p class="card-text">A Madách Színház Budapest egyik legismertebb színháza, amely főként musicalek bemutatására specializálódott. Az intézmény a magyar színházi élet meghatározó szereplője, és számos sikeres produkció fűződik a nevéhez.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="https://imgs.search.brave.com/FVQnit4COvDmqI09bo8mSyLVtOQ-25N2YCx4BJZf-jo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vcGVy/YWthbGF1ei53cm0u/aHUvdG9waWNhbC9v/cGVyYWthbGF1ei9t/YW5hZ2VkL2ltYWdl/cy9oZWx5c3ppbmVr/L21hbzMuanBn" class="card-img-top" alt="Magyar Állami Operaház">
+        <div class="card-body">
+          <h5 class="card-title"><a href="https://www.opera.hu/" class="z">Magyar Állami Operaház</a></h5>
+          <p class="card-text">A Magyar Állami Operaház Ybl Miklós tervei alapján épült neoreneszánsz stílusban, és 1884 óta szolgálja a magyar opera- és balettművészetet. Az épület lenyűgöző belső tereivel és kiváló akusztikájával világszerte elismert.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="https://imgs.search.brave.com/sD_pFA70X5qAq6gi34JGqb8QzbxEjbBO-BGSJRAe2UA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mdW5pcS5odS9p/bWFnZXMvYTMvMTEv/MTQzNjhfb3JpZ19h/cnQ3MjEuanBn" class="card-img-top" alt="Szent István Bazilika">
+        <div class="card-body">
+          <h5 class="card-title"><a href="https://bazilikabudapest.hu/" class="z">Szent István Bazilika</a></h5>
+          <p class="card-text">A Szent István Bazilika Budapest egyik legnagyobb temploma, amelyet 1905-ben szenteltek fel. A bazilika neoklasszicista stílusban épült, és nevét az államalapító Szent István királyról kapta. Kupolájából lenyűgöző panoráma nyílik a városra.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="https://imgs.search.brave.com/pw7Kx3Sz0fFeBc0hBOK6MsSDOwW_FavEET33asyRwJs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mdW5pcS5odS9p/bWFnZXMvNDMvNmEv/MTEwMzRfb3JpZ19h/cnQ3MjEuanBn" class="card-img-top" alt="Országház">
+        <div class="card-body">
+          <h5 class="card-title"><a href="https://www.parlament.hu/web/visitors/home" class="z">Országház</a></h5>
+          <p class="card-text">Az Országház vagy Parlament, Budapest egyik legismertebb épülete, amely Steindl Imre tervei alapján készült neogótikus stílusban. Az 1904-ben befejezett épület a magyar törvényhozás székhelye, és a Duna partján emelkedve a város jelképe.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container my-5" id="latnivalok">
+  <div class="row mt-5">
+    
+    <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="https://imgs.search.brave.com/k-OqS7v3gz_2_tc7H6kvbNG7DarXN2PI3UawMufeDk8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9idWRh/cGVzdC5rb3JueWVr/ZS5odS9mb3Rvay90/YXJ0YWxvbS8xMC85/MjQ2LTIyMTExNzg0/ODA1NDU1MTgxLmpw/Zw" class="card-img-top" alt="Szépművészeti Múzeum">
+        <div class="card-body">
+          <h5 class="card-title"><a href="https://www.szepmuveszeti.hu/" class="z">Szépművészeti Múzeum</a></h5>
+          <p class="card-text">A budapesti Szépművészeti Múzeum a Hősök terén található, és Európa egyik legjelentősebb képzőművészeti gyűjteményét őrzi. Ókori egyiptomi emlékektől a reneszánsz és barokk mestereken át a 19. századi alkotásokig nyújt átfogó képet a művészet történetéről..</p>
+        </div>
+      </div>
+    </div>
+
+     <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="https://imgs.search.brave.com/aca6_HyplMtj1V0Ltzyz4YdE8eHW8QoTchomUMi2BIs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aXR0amFydGFtLmh1/L2J1ZGFwZXN0L211/emV1bW9rL21hZ3lh/ci1uZW16ZXRpLW11/emV1bS9tYWd5YXIt/bmVtemV0aS1tdXpl/dW0tMzU1Ny0zNTB4/MjYyLndlYnA" class="card-img-top" alt="Magyar Nemzeti Múzeum">
+        <div class="card-body">
+          <h5 class="card-title"><a href="https://mnm.hu/hu" class="z">Magyar Nemzeti Múzeum</a></h5>
+          <p class="card-text">Varsó ikonikus felhőkarcolója, kilátóval és kulturális intézményekkel.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="https://imgs.search.brave.com/6WMLCd4ygrOZlrzF4jIQGkNW0y0VrbCdlMNbmf1VS6A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z29ldGhlLmRlL3Jl/c291cmNlcy9maWxl/cy9wbmcxMzIvMXgx/MTYxa29sb2Rrb3Zv/amVueWprb3JhYmVs/LWZvcm1hdGtleS1w/bmctdzMyMHIucG5n" class="card-img-top" alt="Szobrok">
+        <div class="card-body">
+          <h5 class="card-title"><a href="Szobrok.html" class="z">Szobrok</a></h5>
+          <p class="card-text">Kolodko Mihály miniszobrai váratlanul jelennek meg a városban. Apró méretük ellenére erős üzenetet hordoznak: humorral, iróniával és finom kritikával reagálnak a történelemre.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <img src="terkep.png" class="card-img-top" alt="útvonalterv">
+        <div class="card-body">
+          <h5 class="card-title"><a href="https://maps.app.goo.gl/Cw3ahKhdM8oVvVQX6" class="z">BKK útvonalterv </a></h5>
+          <p class="card-text">Az Országház vagy Parlament, Budapest egyik legismertebb épülete, amely Steindl Imre tervei alapján készült neogótikus stílusban. Az 1904-ben befejezett épület a magyar törvényhozás székhelye, és a Duna partján emelkedve a város jelképe.</p>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
