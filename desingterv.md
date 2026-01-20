@@ -62,7 +62,7 @@
 - Sötét háttér
 - Középre igazított szöveg
 - Tartalom:
-  - © Kolodko Projekt
+  - Mindenki neve.
 
 ---
 
@@ -71,8 +71,4 @@
 - **Kiemelő szín:** sárga / arany
 - **Betűtípus:** modern sans-serif (Bootstrap default megfelelő)
 
----
-
-## 7. Összkép
-Egy modern, reszponzív, vizuálisan erős landing oldal, amely gyorsan bemutatja Kolodko Mihály legismertebb miniszobrait, és továbblépési lehetőséget ad részletes tartalom felé.
 
